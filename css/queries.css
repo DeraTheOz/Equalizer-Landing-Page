@@ -1,0 +1,349 @@
+/* 1375px- 85.93em */
+@media screen and (max-width: 85.93em) {
+	.header__tittle {
+		font-size: 8rem;
+	}
+
+	.features-phone-img {
+		left: 8.2%;
+	}
+
+	.features-bg {
+		left: 30%;
+	}
+
+	.pricing {
+		right: 8.2%;
+	}
+}
+
+/* 1330px- 83.12em */
+@media screen and (max-width: 83.12em) {
+	.header {
+		padding-left: 10rem;
+	}
+
+	.features {
+		padding: 0 10rem;
+	}
+
+	.features-phone-img {
+		left: 9%;
+	}
+
+	.pricing {
+		right: 10%;
+	}
+
+	.footer {
+		padding: 5rem 10rem;
+	}
+}
+
+/* 1245px- 77.81em */
+@media screen and (max-width: 77.81em) {
+	.header {
+		padding-left: 8rem;
+	}
+
+	.header__tittle {
+		font-size: 7rem;
+	}
+
+	.tittle-text {
+		padding-right: 4rem;
+	}
+
+	.features {
+		padding: 0 8rem;
+	}
+
+	.features-phone-img {
+		left: 8.4%;
+	}
+
+	.pricing {
+		right: 8.4%;
+	}
+
+	.footer {
+		padding: 5rem 8rem;
+	}
+}
+
+/* 1180px- 73.75em */
+@media screen and (max-width: 73.75em) {
+	.header {
+		padding-left: 6.4rem;
+	}
+
+	.features {
+		padding: 0 6.4rem;
+	}
+
+	.features-phone-img {
+		left: 7.7%;
+	}
+
+	.pricing {
+		right: 6%;
+	}
+
+	.footer {
+		padding: 5rem 6.4rem;
+	}
+}
+
+/* 1104px- 69em */
+@media screen and (max-width: 69em) {
+	.header {
+		padding-left: 4.8rem;
+	}
+
+	.header__tittle {
+		font-size: 6.4rem;
+	}
+
+	.tittle-text {
+		padding-right: 0;
+	}
+
+	.features {
+		padding: 0 4.8rem;
+	}
+
+	.features-phone-img {
+		left: 6.7%;
+	}
+
+	.pricing {
+		right: 4%;
+	}
+
+	.footer {
+		padding: 5rem 4.8rem;
+	}
+}
+
+/* 1028px- 64.25em */
+@media screen and (max-width: 64.25em) {
+	.header {
+		gap: 0;
+	}
+
+	.tittle-text {
+		padding-right: 0;
+		text-wrap: pretty;
+	}
+
+	.header-image {
+		max-width: 25rem;
+	}
+}
+
+/* 930px- 58.12em */
+@media screen and (max-width: 58.12em) {
+	.header {
+		padding-left: 4rem;
+	}
+
+	.header-container {
+		max-width: 52rem;
+	}
+
+	.tittle-text {
+		font-size: 1.8rem;
+	}
+
+	.header-image {
+		max-width: 30rem;
+		margin-right: -5rem;
+	}
+
+	.features {
+		padding: 0 4rem;
+	}
+
+	.footer {
+		padding: 5rem 4rem;
+	}
+
+	.footer-nav {
+		grid-template-columns: 1fr 1fr;
+		row-gap: 4rem;
+	}
+
+	.footer-logo {
+		grid-row: 1 / -1;
+	}
+
+	.footer-text {
+		grid-row: 2;
+	}
+
+	.nav-links {
+		grid-row: 2;
+	}
+}
+
+/* 850px- 53.12em */
+@media screen and (max-width: 53.12em) {
+	.header {
+		overflow-x: hidden;
+	}
+
+	.container {
+		margin: 25rem 0;
+	}
+
+	.features-phone-img {
+		max-width: 27rem;
+		top: -20%;
+	}
+
+	.features-bg {
+		max-width: 28rem;
+	}
+
+	.pricing {
+		max-width: 39.9rem;
+		padding: 4.5rem;
+		right: 8%;
+	}
+
+	.pricing-header {
+		font-size: 3.2rem;
+	}
+
+	.pricing-text {
+		font-size: 1.8rem;
+	}
+}
+
+/* 740px- 46.25em */
+@media screen and (max-width: 46.25em) {
+	.features-phone-img {
+		top: -30%;
+	}
+
+	.pricing {
+		bottom: -30%;
+	}
+}
+
+/* 640px- 40em */
+@media screen and (max-width: 40em) {
+	.header-image-box {
+		display: none;
+	}
+
+	.footer {
+		margin: 0;
+	}
+
+	.footer-nav {
+		grid-template-columns: 1fr;
+	}
+
+	.nav-links {
+		grid-row: 3;
+		margin: 0;
+	}
+}
+
+/* 521px- 32.56em */
+@media screen and (max-width: 32.56em) {
+	.header {
+		padding-left: 2.4rem;
+	}
+
+	.container {
+		padding: 40rem 0;
+	}
+
+	.features {
+		padding: 0;
+	}
+
+	.features-phone-img {
+		top: -20%;
+		left: 25%;
+		max-width: 50%;
+	}
+
+	.features-bg {
+		top: 0;
+		left: 15%;
+	}
+
+	.pricing {
+		padding: 5rem;
+		max-width: 100%;
+		right: 0;
+		bottom: -25%;
+	}
+
+	.footer {
+		padding: 5rem 2.4rem;
+	}
+}
+
+/* 470px- 29.37em */
+@media screen and (max-width: 29.37em) {
+	.header {
+		grid-template-columns: 1fr;
+	}
+
+	.header-container {
+		max-width: 32.7rem;
+	}
+
+	.header__tittle {
+		font-size: 4rem;
+		padding-top: 6rem;
+		line-height: 1.1;
+	}
+
+	.tittle-text {
+		font-size: 1.6rem;
+	}
+
+	.container {
+		margin-top: 10rem;
+		margin-bottom: 20rem;
+	}
+
+	.features-phone-img {
+		top: -10%;
+	}
+
+	.pricing {
+		bottom: -27%;
+	}
+}
+
+/* 394px- 24.62em */
+@media screen and (max-width: 24.62em) {
+	.tittle-text {
+		padding-right: 1rem;
+	}
+
+	.container {
+		margin-bottom: 25rem;
+	}
+
+	.features-phone-img {
+		top: -8%;
+	}
+}
+
+/* 381px- 23.81em */
+@media screen and (max-width: 23.81em) {
+	.features-phone-img {
+		top: -5%;
+	}
+
+	.pricing {
+		padding: 5rem 2.4rem;
+	}
+}

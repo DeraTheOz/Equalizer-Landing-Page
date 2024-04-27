@@ -143,6 +143,12 @@
 
 /* 930px- 58.12em */
 @media screen and (max-width: 58.12em) {
+	body {
+		background-image: url('../assets/bg-main-tablet.png');
+		background-repeat: no-repeat;
+		background-position: top 80% right 30%;
+	}
+
 	.header {
 		padding-left: 4rem;
 	}
@@ -290,6 +296,16 @@
 
 /* 470px- 29.37em */
 @media screen and (max-width: 29.37em) {
+	body {
+		background: none;
+	}
+
+	header {
+		background-image: url('../assets/bg-main-mobile.png');
+		background-repeat: no-repeat;
+		background-position: top 80% left 10%;
+	}
+
 	.header {
 		grid-template-columns: 1fr;
 	}
